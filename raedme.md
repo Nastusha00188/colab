@@ -1,3 +1,1 @@
 #ZAGOLOVOK
-
-pamparam
